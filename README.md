@@ -17,7 +17,7 @@
   <a href="https://github.com/adityaff10">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-   <a href="https://www.hackerrank.com/profile/YOUR_USERNAME">
+   <a href="https://www.hackerrank.com/profile/adityawadkar10">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
