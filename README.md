@@ -21,3 +21,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityaff10&label=Profile%20Views&color=0e75b6&style=flat" alt="adityaff10" />
+</p>
